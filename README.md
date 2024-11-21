@@ -1,1 +1,2 @@
-# DNN-from-scratch
+# Implementing a Deep Neural Network for Regression from Scratch
+In this project, I've build a deep neural network from scratch using NumPy for matrix operations to solve a regression problem. The network consist of multiple hidden layers with ReLU activation, and the final output layer will use a linear activation function. Key components like forward propagation, activation functions, loss functions (Sum squared error), and backward propagation were implemented. Gradient descent will be used as the optimizer.
